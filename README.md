@@ -8,6 +8,7 @@
 ---
 
 ## 📁 1. 프로젝트 폴더 구성
+'''
 project/
 ├─ data/                       # 데이터 저장 폴더
 │   ├─ crime_2023.csv
@@ -26,7 +27,7 @@ project/
 │   └─ 시각화 코드.ipynb
 │
 └─ README.md
-
+'''
 
 ---
 
