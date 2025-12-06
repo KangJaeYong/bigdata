@@ -35,11 +35,11 @@ project/
 
 | 데이터 종류 | 설명 | 파일명 |
 |------------|------|--------|
-| **음주율 데이터** | 시군구별 음주율(%) 및 응답자 수 | `drinking_2023_before.xlsx`, `drinking_2023.xlsx` |
-| **고위험 음주율 데이터** | 시군구별 고위험 음주율(%) 및 응답자 수 | `drinking_highrisk_2023_before.xlsx`, `drinking_highrisk_2023.xlsx` |
-| **인구 데이터** | 각 시군구별 총인구수 | `population_before.xlsx`, `population.xlsx` |
-| **범죄 데이터** | 시군구별 총범죄건수 | `crime_2023_before.csv`, `crime_2023.csv` |
-| **최종 병합 데이터** | 전처리 + 병합 + 가중평균 후 산출된 최종 데이터 | `final_clean_dataset.csv` |
+| **음주율 데이터**  | 시군구별 음주율(%) 및 응답자 수 | `drinking_2023_before.xlsx`, `drinking_2023.xlsx` |
+| **고위험 음주율 데이터**  | 시군구별 고위험 음주율(%) 및 응답자 수 | `drinking_highrisk_2023_before.xlsx`, `drinking_highrisk_2023.xlsx` |
+| **인구 데이터**  | 각 시군구별 총인구수 | `population_before.xlsx`, `population.xlsx` |
+| **범죄 데이터**  | 시군구별 총범죄건수 | `crime_2023_before.csv`, `crime_2023.csv` |
+| **최종 병합 데이터**  | 전처리 + 병합 + 가중평균 후 산출된 최종 데이터 | `final_clean_dataset.csv` |
 
 ---
 
