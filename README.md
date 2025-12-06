@@ -28,18 +28,15 @@ project/
 │
 └─ README.md # 프로젝트 설명
 
-👍 **데이터와 분석 코드가 깔끔하게 분리된 구조**로 관리됩니다.
-
----
 
 ## 📦 2. 사용 데이터
 
 | 항목 | 설명 |
 |------|------|
-| 음주율 데이터 | 시군구별 음주율(%) 및 응답자 수 |
-| 고위험 음주율 데이터 | 시군구별 고위험 음주율(%) 및 응답자 수 |
-| 인구 데이터 | 각 시군구별 총인구수 |
-| 범죄 데이터 | 시군구별 총범죄건수 |
+| 음주율 데이터 | 시군구별 음주율(%) 및 응답자 수 | drinking_2023_before.xlsx, drinking_2023.xlsx | 
+| 고위험 음주율 데이터 | 시군구별 고위험 음주율(%) 및 응답자 수 | drinking_highrisk_2023_before.xlsx, drinking_highrisk_2023.xlsx |
+| 인구 데이터 | 각 시군구별 총인구수 | population_before.xlsx, population.xlsx | 
+| 범죄 데이터 | 시군구별 총범죄건수 | crime_2023_before.csv, crime_2023.csv | 
 | final_clean_dataset.csv | 전처리 + 병합 + 가중평균 처리 완료된 최종 데이터셋 |
 
 ---
