@@ -8,7 +8,24 @@
 ---
 
 ## 📁 1. 프로젝트 폴더 구성
-
+project/
+├─ data/ # 데이터 저장 폴더
+│ ├─ crime_2023.csv
+│ ├─ crime_2023_before.csv
+│ ├─ drinking_2023.xlsx
+│ ├─ drinking_2023_before.xlsx
+│ ├─ drinking_highrisk_2023.xlsx
+│ ├─ drinking_highrisk_2023_before.xlsx
+│ ├─ population.xlsx
+│ ├─ population_before.xlsx
+│ └─ final_clean_dataset.csv
+│
+├─ notebook/ # 분석 Notebook
+│ ├─ 병합.ipynb
+│ ├─ 전처리 코드.ipynb
+│ └─ 시각화 코드.ipynb
+│
+└─ README.md
 
 ---
 
