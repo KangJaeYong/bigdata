@@ -20,7 +20,7 @@ project/
 │ ├─ population_before.xlsx
 │ └─ final_clean_dataset.csv
 │
-├─ notebook/ # 분석 Notebook
+├─ notebook/ # 프로젝트 핵심 Notebook
 │ ├─ 병합.ipynb
 │ ├─ 전처리 코드.ipynb
 │ └─ 시각화 코드.ipynb
